@@ -1,3 +1,3 @@
 <?php
-	echo "网站开发中...";
+	echo "The site is being developed";
  ?>
